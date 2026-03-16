@@ -22,4 +22,5 @@ Développement du Site 01
 ```diff
 + Chaises (Canapé : all)
 + Ascenseurs
++ Porte 1 & 5 "Locaux Comité"
 ```
