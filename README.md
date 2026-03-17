@@ -24,3 +24,20 @@ Développement du Site 01
 + Ascenseurs
 + Porte 1 & 5 "Locaux Comité"
 ```
+
+## Patch Note du 17/03/2026
+### Supressions :
+```diff
+-- N/A
+```
+
+### Ajouts :
+```diff
++ Début Cafétariat
+```
+
+### Bugs :
+```diff
+- Ascenseurs
+- Porte A1 touchable / aucun acces
+```
