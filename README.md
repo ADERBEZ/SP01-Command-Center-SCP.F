@@ -33,11 +33,12 @@ Développement du Site 01
 
 ### Ajouts :
 ```diff
-+ Début Cafétariat
++ Zone Cafétariat
 ```
 
 ### Bugs :
 ```diff
 - Ascenseurs
 - Porte A1 touchable / aucun acces
+- Porte Secteur Alpha
 ```
