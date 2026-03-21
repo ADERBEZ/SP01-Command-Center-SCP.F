@@ -41,6 +41,7 @@ Développement du Site 01
 - Ascenseurs
 - Porte A1 touchable / aucun acces
 - Porte Secteur Alpha
+- Porte 1 "Locaux Comité"
 ```
 
 ## Patch Note du 20/03/2026
@@ -54,6 +55,9 @@ Développement du Site 01
 + Nouvelle Salle de Réunion CO5
 + Premier Bureau CO5
 + Ballisage Interdiction Accès "Secteur Alpha"
++ Système de Hacking des portes
++ Système de LockDown par Tabelette
++ Ajout Script Hacking Module (désactivation auto)
 ```
 
 ### Bugs :
