@@ -42,3 +42,21 @@ Développement du Site 01
 - Porte A1 touchable / aucun acces
 - Porte Secteur Alpha
 ```
+
+## Patch Note du 20/03/2026
+### Supressions :
+```diff
+-- N/A
+```
+
+### Ajouts :
+```diff
++ Nouvelle Salle de Réunion CO5
++ Premier Bureau CO5
++ Ballisage Interdiction Accès "Secteur Alpha"
+```
+
+### Bugs :
+```diff
+-- N/A
+```
