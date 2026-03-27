@@ -64,3 +64,24 @@ Développement du Site 01
 ```diff
 -- N/A
 ```
+
+## Patch Note du 27/03/2026
+### Supressions :
+```diff
+-
+```
+
+### Ajouts :
+```diff
++ Secteur Bêta
++ Locaux DRG (Bureaux, Vestiare)
++ Accès Locaux ASIA (Ascenseur)
++ Acceuil Secteur Alpha
++ Configuration Clearence (A-1, ..., A-6, A-S)
++ Ajout Team + Spawn IC (Atlas)
+```
+
+### Bugs :
+```diff
++ Portes (all)
+```
