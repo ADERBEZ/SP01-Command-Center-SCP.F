@@ -81,6 +81,17 @@ Développement du Site 01
 + Ajout Team + Spawn IC (Atlas)
 ```
 
+## Patch Note du 28/03/2026
+### Supressions :
+```diff
+-
+```
+
+### Ajouts :
+```diff
++ Alarme Incendie (Bouton, panel config, lumière)
+```
+
 ### Bugs :
 ```diff
 + Portes (all)
