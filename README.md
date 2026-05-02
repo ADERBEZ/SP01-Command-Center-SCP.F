@@ -96,3 +96,34 @@ Développement du Site 01
 ```diff
 + Portes (all)
 ```
+
+## Patch Note du 02/05/2026
+### Supressions :
+```diff
+- N/A
+```
+
+### Ajouts :
+```diff
++ Agrandissement Zone d'Entrée;
++ Cafétariat (Entrée du Site-01);
++ Accès CO4;
++ Accès Extérieure;
++ Salle de débriefing (Alpha-1);
++ Accueil (Comité d'Éthique);
++ 2 vestiaires (Comité d'Éthique);
++ 4 Bureaux (Comité d'Éthique).
+```
+
+### Remplacement :
+```diff
++ Portes (locaux DRG);
++ Ascenseur (All, nouvelle version plus fiable);
+- Locaux Comité d'Éthique.
+```
+
+### Bugs :
+```diff
++ N/A
+- N/A
+```
